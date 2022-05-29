@@ -1,6 +1,6 @@
 # Summary
 
-* [Linux](README.md)
+* [Linux]
     * [常用 Linux 命令的基本使用](linux/常用Linux命令的基本使用.md)
     * [Linux 终端命令格式](linux/Linux终端命令格式.md)
     * [文件和目录常用命令](linux/文件和目录常用命令.md)
